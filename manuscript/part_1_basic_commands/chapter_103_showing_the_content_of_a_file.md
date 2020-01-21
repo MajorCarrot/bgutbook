@@ -38,7 +38,7 @@ Print the content of the file `examples.txt` numbering lines.
 
 {#exercise_3_02}
 #### Exercise 3.02
-Chech if the file `examples.txt` contains spaces at the end of any line.
+Check if the file `examples.txt` contains spaces at the end of any line.
 
 [Go to solution](#solution_3_02)
 
